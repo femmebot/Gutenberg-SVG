@@ -22,3 +22,8 @@
 .subscribe { margin: 0; padding: 0; }
 .btn-primary { background-color: #f20; border: none; }
 .tinytype { font: 10px Arial; color: #999; }
+
+@media ( max-width: 768px ) {
+	#guten-graphics .container { padding: 0; }
+	#guten-graphics .caption { padding: 6px 0; }
+}
