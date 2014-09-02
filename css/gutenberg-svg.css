@@ -1,10 +1,11 @@
 #guten-graphics { padding: 0 0 120px; background-color: #fffaf7; }
 #guten-graphics .navbar.navbar-default { font: 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; background-color: #fff; }
 #guten-graphics .navbar-brand { font: bold 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; }
-#guten-graphics p { font: 12px/20px 'IM Fell English', 'Helvetica Neue', Helvetica, Arial; }
-#guten-graphics p a { color: #f00; }
-#guten-graphics p a.btn-simple { display: inline-block; padding: 0 10px; background-color: #fff; border: 1px solid #f00; }
-#guten-graphics p a:hover.btn-simple { text-decoration: none; }
+#guten-graphics .navbar-left p { font: 12px/20px 'Helvetica Neue', 'Helvetica', Arial; padding-left: 20px; border-left: 1px solid #ccc; margin-top: 14px; }
+#guten-graphics .container .row p { font: 12px/20px 'IM Fell English', 'Helvetica Neue', Helvetica, Arial; }
+#guten-graphics .container .row p a { color: #f00; }
+#guten-graphics .container .row p a.btn-simple { display: inline-block; padding: 0 10px; background-color: #fff; border: 1px solid #f00; }
+#guten-graphics .container .row p a:hover.btn-simple { text-decoration: none; }
 #guten-graphics .spot-illo { background-color: #d8e8e8; overflow: visible; width: 180px; height: 180px; border-radius: 90px; margin: 60px auto; text-align: center; }
 #guten-graphics .spot-illo img { max-width: 140px; padding: 20px; margin: 0 auto; }
 #guten-graphics .spot-illo.wide { background-color: #f8e8e8; line-height: 180px; }
