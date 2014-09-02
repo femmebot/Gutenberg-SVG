@@ -1,0 +1,15 @@
+#guten-graphics { padding: 0 0 120px; background-color: #fffaf7; }
+#guten-graphics .navbar.navbar-default { font: 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; background-color: #fff; }
+#guten-graphics .navbar-brand { font: bold 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; }
+#guten-graphics p { font: 12px/20px 'IM Fell English', 'Helvetica Neue', Helvetica, Arial; }
+#guten-graphics p a { color: #f00; }
+#guten-graphics p a.btn-simple { display: inline-block; padding: 0 10px; background-color: #fff; border: 1px solid #f00; }
+#guten-graphics p a:hover.btn-simple { text-decoration: none; }
+#guten-graphics .spot-illo { background-color: #d8e8e8; overflow: visible; width: 180px; height: 180px; border-radius: 90px; margin: 60px auto; text-align: center; }
+#guten-graphics .spot-illo img { max-width: 140px; padding: 20px; margin: 0 auto; }
+#guten-graphics .spot-illo.wide { background-color: #f8e8e8; line-height: 180px; }
+#guten-graphics .spot-illo.wide img { max-width: 180px; padding: 20px 0; margin: 0 auto; }
+#guten-graphics .card-illo { width: 300px; height: 460px; overflow: hidden; margin: 30px auto; position: relative; }
+#guten-graphics .card-illo img { max-width: 300px; }
+#guten-graphics .caption { padding: 6px 20px; }
+#guten-graphics .caption-overlay { padding: 6px 20px; position: absolute; top: 300px; background-color: rgba(255, 250, 247, .9); }
