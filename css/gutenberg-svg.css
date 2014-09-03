@@ -24,7 +24,7 @@
 .tinytype { font: 10px Arial; color: #999; }
 
 @media ( max-width: 768px ) {
-	#guten-graphics .navbar-brand { padding-left: 10px; }
+	#guten-graphics .navbar-brand { margin-left: 20px; }
 	#guten-graphics .container { padding: 0; }
 	#guten-graphics .caption { padding: 6px 0; }
 }
