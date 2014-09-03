@@ -24,6 +24,7 @@
 #guten-graphics .control-label { font: 700 12px/15px 'Helvetica Neue', 'Helvetica', Arial; margin-top: 30px; margin-bottom: 0; padding: 0; }
 #guten-graphics .subscribe { margin: 0; padding: 0; }
 #guten-graphics .btn-primary { background-color: #f20; border: none; }
+#guten-graphics .btn-primary:hover { background-color: #c00; }
 #guten-graphics .tinytype { font: 10px Arial; color: #999; }
 
 @media ( max-width: 768px ) {
