@@ -1,4 +1,7 @@
 Gutenberg-SVG
 =============
 
-Discover and download SVG files that have been converted by hand from Project Gutenberg images 
+Each month, I take scanned illustrations from Project Gutenberg and convert them into editable, vector images (SVG). They're free to download and use anywhere. 
+You’re welcome.
+
+View the project at [Project Gutenberg SVG Project](http://femmebot.github.io/Gutenberg-SVG/)
