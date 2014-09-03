@@ -1,7 +1,7 @@
 #guten-graphics { padding: 0 0 120px; background-color: #fffaf7; }
 #guten-graphics .navbar.navbar-default { font: 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; background-color: #fff; }
 #guten-graphics .navbar-brand { font: bold 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; }
-#guten-graphics .sub-brand { font: 12px/20px 'Helvetica Neue', 'Helvetica', Arial; padding: 0 0 0 12px; border-left: 1px solid #ccc; margin-top: 14px; display: inline-block; border: 1px solid #f00; }
+#guten-graphics .sub-brand { font: 12px/20px 'Helvetica Neue', 'Helvetica', Arial; padding: 0 0 0 12px; border-left: 1px solid #ccc; margin-top: 14px; display: inline-block; }
 #guten-graphics .sub-brand a { color: #f00; }
 #guten-graphics h1 { font: 40px/48px 'IM Fell English', 'Helvetica Neue', Helvetica, Arial; }
 #guten-graphics .container .collection { margin: 60px 0; } 
@@ -24,6 +24,7 @@
 .tinytype { font: 10px Arial; color: #999; }
 
 @media ( max-width: 768px ) {
+	#guten-graphics .navbar-brand { padding-left: 10px; }
 	#guten-graphics .container { padding: 0; }
 	#guten-graphics .caption { padding: 6px 0; }
 }
