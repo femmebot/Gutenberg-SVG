@@ -1,36 +1,41 @@
 #guten-graphics { padding: 0 0 120px; /*background-color: #fffaf7;*/ }
+#guten-graphics .container-fluid { padding: 0 ; }
+#guten-graphics .jumbotron { background-color: #222; padding-bottom: 90px; }
 #guten-graphics .navbar.navbar-default { font: 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; background-color: #fff; margin-bottom: 0; }
 #guten-graphics .navbar-brand { font: bold 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; }
 #guten-graphics .sub-brand { font: 12px/20px 'Helvetica Neue', 'Helvetica', Arial; padding: 0 0 0 12px; border-left: 1px solid #ccc; margin-top: 14px; display: inline-block; }
-#guten-graphics h1 { font: 48px/52px 'IM Fell English', 'Helvetica Neue', Helvetica, Arial; letter-spacing: -.03em; margin-top: 60px; }
-#guten-graphics h2 { font: 48px/52px 'IM Fell English', 'Helvetica Neue', Helvetica, Arial; padding-top: 30px; border-top: 1px solid #ccc; }
+#guten-graphics h1, #guten-graphics h2 { font: 300 54px/60px 'Helvetica Neue', Helvetica, Arial; color: #666; }
+#guten-graphics h1 {  margin-top: 60px;  }
 #guten-graphics a { color: #f00; }
+#guten-graphics .jumbotron a { color: #f00; }
+#guten-graphics .jumbotron .tinytype { color: #555; }
 
-#guten-graphics .container .collection { margin: 60px 0; } 
+#guten-graphics .container .collection { margin: 30px 0; } 
 #guten-graphics .container .collection p { font: 11px/20px 'Helvetica Neue', Helvetica, Arial; }
+#guten-graphics .container .collection p.primary { font: 400 13px/20px 'Helvetica Neue', Helvetica, Arial; color: #555; }
 #guten-graphics .container .collection p a { color: #f00; }
 #guten-graphics .container .collection p a.btn-simple { display: inline-block; padding: 0 10px; background-color: #fff; border: 1px solid #f00; }
 #guten-graphics .container .collection p a:hover.btn-simple { text-decoration: none; }
 #guten-graphics .container .collection p.lede { font: 15px/30px 'Helvetica Neue', Helvetica, Arial; }
 #guten-graphics .spot-illo { background-color: #d8e8e8; overflow: visible; width: 180px; height: 180px; border-radius: 90px; margin: 60px auto; text-align: center; }
 #guten-graphics .spot-illo img { max-width: 140px; padding: 20px; margin: 0 auto; }
-#guten-graphics .spot-illo.wide { background-color: #f8e8e8; line-height: 180px; }
+#guten-graphics .spot-illo.wide { background-color: #cdd; line-height: 180px; }
 #guten-graphics .spot-illo.wide img { max-width: 180px; padding: 20px 0; margin: 0 auto; }
 #guten-graphics .card-illo { width: 300px; height: 460px; overflow: hidden; margin: 30px auto; position: relative; }
 #guten-graphics .card-illo img { max-width: 300px; }
 #guten-graphics .caption { padding: 6px 10px; }
 #guten-graphics .caption-overlay { padding: 6px 10px; position: absolute; top: 300px; background-color: rgba(255, 255, 255, .9); }
 
-#guten-graphics .control-label { font: 700 12px/15px 'Helvetica Neue', 'Helvetica', Arial; margin-top: 30px; margin-bottom: 0; padding: 0; }
+#guten-graphics .control-label { font: 15px/16px 'Helvetica Neue', 'Helvetica', Arial; margin-top: 40px; margin-bottom: 0; padding: 0; color: #666; }
 #guten-graphics .subscribe { margin: 0; padding: 0; }
-#guten-graphics .btn-primary { background-color: #f20; border: none; }
+#guten-graphics .btn-primary { background-color: #f20; height: 35px; width: 120px; border: none; color: #000; }
 #guten-graphics .btn-primary:hover { background-color: #c00; }
 #guten-graphics .tinytype { font: 10px Arial; color: #999; }
 
 @media ( max-width: 768px ) {
-/*	#guten-graphics .navbar-brand { margin-left: 10px; }
-*/	#guten-graphics h1, #guten-graphics h2 { font-size: 24px; line-height: 30px; }
-	#guten-graphics .container-fluid { padding: 0; }
+/*	#guten-graphics .navbar-brand { margin-left: 10px; } */	
+	#guten-graphics h1, #guten-graphics h2 { font-size: 24px; line-height: 30px; } 	
+	#guten-graphics .jumbotron { padding: 0; }
 	#guten-graphics .container { padding: 0 20px; }
 	#guten-graphics .caption { padding: 6px 0; }
 	#guten-graphics .btn-primary { margin-top: 6px; }
