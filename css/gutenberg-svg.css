@@ -38,5 +38,5 @@
 	#guten-graphics .jumbotron { padding: 0; }
 	#guten-graphics .container { padding: 0 20px; }
 	#guten-graphics .caption { padding: 6px 0; }
-	#guten-graphics .btn-primary { margin-top: 6px; }
+	#guten-graphics .btn-primary { display: block; }
 }
