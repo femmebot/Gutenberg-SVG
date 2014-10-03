@@ -28,7 +28,7 @@
 
 #guten-graphics .control-label { font: 15px/16px 'Helvetica Neue', 'Helvetica', Arial; margin-top: 40px; margin-bottom: 0; padding: 0; color: #666; }
 #guten-graphics .subscribe { margin: 0; padding: 0; }
-#guten-graphics .btn-primary { background-color: #f20; height: 35px; width: 120px; border: none; color: #000; }
+#guten-graphics .btn-primary { background-color: #f20; border: 2px solid #f00; color: #000; }
 #guten-graphics .btn-primary:hover { background-color: #c00; }
 #guten-graphics .tinytype { font: 10px Arial; color: #999; }
 
@@ -38,5 +38,5 @@
 	#guten-graphics .jumbotron { padding: 0; }
 	#guten-graphics .container { padding: 0 20px; }
 	#guten-graphics .caption { padding: 6px 0; }
-	#guten-graphics .btn-primary { margin-top: 6px; }
+	#guten-graphics .btn-primary { display: block; }
 }
