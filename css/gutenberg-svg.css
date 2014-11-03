@@ -10,7 +10,7 @@
 #guten-graphics .jumbotron a { color: #f00; }
 #guten-graphics .jumbotron .tinytype { color: #555; }
 
-#guten-graphics .container .collection { margin: 30px 0; } 
+#guten-graphics .container .collection { margin: 30px 0; }
 #guten-graphics .container .collection p { font: 11px/20px 'Helvetica Neue', Helvetica, Arial; }
 #guten-graphics .container .collection p.primary { font: 400 13px/20px 'Helvetica Neue', Helvetica, Arial; color: #555; }
 #guten-graphics .container .collection p a { color: #f00; }
@@ -21,7 +21,10 @@
 #guten-graphics .spot-illo img { max-width: 140px; padding: 20px; margin: 0 auto; }
 #guten-graphics .spot-illo.wide { background-color: #cdd; line-height: 180px; }
 #guten-graphics .spot-illo.wide img { max-width: 180px; padding: 20px 0; margin: 0 auto; }
-#guten-graphics .card-illo { width: 300px; height: 460px; overflow: hidden; margin: 30px auto; position: relative; }
+#guten-graphics .card-illo { width: 300px; height: 360px; overflow: hidden; margin: 30px auto; line-height: 300px; text-align: center; position: relative; }
+#guten-graphics .card-illo.orange { background: url(../images-core/bg-orange.png) no-repeat; }
+#guten-graphics .card-illo.aqua { background: url(../images-core/bg-aqua.png) no-repeat; }
+#guten-graphics .card-illo.grey { background: url(../images-core/bg-grey.png) no-repeat; }
 #guten-graphics .card-illo img { max-width: 300px; }
 #guten-graphics .caption { padding: 6px 10px; }
 #guten-graphics .caption-overlay { padding: 6px 10px; position: absolute; top: 300px; background-color: rgba(255, 255, 255, .9); }
@@ -33,8 +36,8 @@
 #guten-graphics .tinytype { font: 10px Arial; color: #999; }
 
 @media ( max-width: 768px ) {
-/*	#guten-graphics .navbar-brand { margin-left: 10px; } */	
-	#guten-graphics h1, #guten-graphics h2 { font-size: 24px; line-height: 30px; } 	
+/*	#guten-graphics .navbar-brand { margin-left: 10px; } */
+	#guten-graphics h1, #guten-graphics h2 { font-size: 24px; line-height: 30px; }
 	#guten-graphics .jumbotron { padding: 0; }
 	#guten-graphics .container { padding: 0 20px; }
 	#guten-graphics .caption { padding: 6px 0; }
