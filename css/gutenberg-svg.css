@@ -25,7 +25,7 @@
 #guten-graphics .card-illo.orange { background: url(../images-core/bg-orange.png) no-repeat; }
 #guten-graphics .card-illo.aqua { background: url(../images-core/bg-aqua.png) no-repeat; }
 #guten-graphics .card-illo.grey { background: url(../images-core/bg-grey.png) no-repeat; }
-#guten-graphics .card-illo img { max-width: 300px; }
+#guten-graphics .card-illo img { max-width: 280px; }
 #guten-graphics .caption { padding: 6px 10px; }
 #guten-graphics .caption-overlay { padding: 6px 10px; position: absolute; top: 300px; background-color: rgba(255, 255, 255, .9); }
 
