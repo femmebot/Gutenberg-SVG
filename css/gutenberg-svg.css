@@ -11,8 +11,9 @@
 #guten-graphics .jumbotron .tinytype { color: #555; }
 
 #guten-graphics .container .collection { margin: 30px 0; }
+#guten-graphics .container .collection h2 { font: 24px/24px 'Helvetica Neue', Helvetica, Arial; color: #000; margin-bottom: 24px; }
 #guten-graphics .container .collection p { font: 11px/20px 'Helvetica Neue', Helvetica, Arial; }
-#guten-graphics .container .collection p.primary { font: 400 13px/20px 'Helvetica Neue', Helvetica, Arial; color: #555; }
+#guten-graphics .container .collection p.primary { font: 400 16px/24px 'Helvetica Neue', Helvetica, Arial; color: #555; }
 #guten-graphics .container .collection p a { color: #f00; }
 #guten-graphics .container .collection p a.btn-simple { display: inline-block; padding: 0 10px; background-color: #fff; border: 1px solid #f00; }
 #guten-graphics .container .collection p a:hover.btn-simple { text-decoration: none; }
