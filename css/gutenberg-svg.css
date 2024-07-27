@@ -1,6 +1,6 @@
 #guten-graphics { padding: 0 0 120px; /*background-color: #fffaf7;*/ }
 #guten-graphics .container-fluid { padding: 0 ; }
-#guten-graphics .jumbotron { background-color: #222; padding-bottom: 90px; }
+#guten-graphics .jumbotron { background-color: #222; padding-top: 160px; padding-bottom: 240px; }
 #guten-graphics .navbar.navbar-default { font: 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; background-color: #fff; margin-bottom: 0; }
 #guten-graphics .navbar-brand { font: bold 12px 'Helvetica Neue', 'Helvetica', Arial; color: #000; }
 #guten-graphics .sub-brand { font: 12px/20px 'Helvetica Neue', 'Helvetica', Arial; padding: 0 0 0 12px; border-left: 1px solid #ccc; margin-top: 14px; display: inline-block; }
